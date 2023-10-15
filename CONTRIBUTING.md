@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+  
+#### Name: [Kunal Bamoriya](https://github.com/Kunal0721)
+
+- Place: Indore, India
+- Bio: Software Engineer | Java Developer 
+- Affiliation : Chameli Devi Group of Institutions, Indore.
+- GitHub: [Kunal Bamoriya](https://github.com/Kunal0721)
